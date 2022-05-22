@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneNumberInformation", "PhoneNumberInformation\PhoneNumberInformation.csproj", "{EB757971-A275-4FF9-BDC9-3E16E6A1A0A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneNumberBringing", "PhoneNumberBringing\PhoneNumberBringing.csproj", "{455EB72C-C11F-4A02-8599-22B75634E10F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB757971-A275-4FF9-BDC9-3E16E6A1A0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB757971-A275-4FF9-BDC9-3E16E6A1A0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB757971-A275-4FF9-BDC9-3E16E6A1A0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB757971-A275-4FF9-BDC9-3E16E6A1A0A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{455EB72C-C11F-4A02-8599-22B75634E10F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{455EB72C-C11F-4A02-8599-22B75634E10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{455EB72C-C11F-4A02-8599-22B75634E10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{455EB72C-C11F-4A02-8599-22B75634E10F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
