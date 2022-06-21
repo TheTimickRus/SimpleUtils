@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneNumberInformation", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneNumberBringing", "PhoneNumberBringing\PhoneNumberBringing.csproj", "{455EB72C-C11F-4A02-8599-22B75634E10F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiffTextFiles", "DiffTextFiles\DiffTextFiles.csproj", "{EED55B65-EE67-422A-93A1-7DDA827F94CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{455EB72C-C11F-4A02-8599-22B75634E10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{455EB72C-C11F-4A02-8599-22B75634E10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{455EB72C-C11F-4A02-8599-22B75634E10F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EED55B65-EE67-422A-93A1-7DDA827F94CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EED55B65-EE67-422A-93A1-7DDA827F94CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EED55B65-EE67-422A-93A1-7DDA827F94CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EED55B65-EE67-422A-93A1-7DDA827F94CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
